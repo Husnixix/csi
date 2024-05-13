@@ -1,4 +1,4 @@
-package hrms;
+package csi;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

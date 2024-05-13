@@ -1,5 +1,5 @@
 
-package hrms;
+package csi;
 
 
 public class Main {

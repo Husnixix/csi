@@ -1,5 +1,5 @@
 
-package hrms;
+package csi;
 
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
 import javax.swing.JOptionPane;

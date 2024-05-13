@@ -1,4 +1,4 @@
-package hrms;
+package csi;
 
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
 import java.sql.*;
@@ -32,7 +32,6 @@ public class loginForm extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(400, 500));
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());

@@ -1,4 +1,4 @@
-package hrms;
+package csi;
 
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
 import com.mysql.cj.x.protobuf.MysqlxExpr;
@@ -257,7 +257,6 @@ public class adminDashboard extends javax.swing.JFrame {
             }
         });
 
-        btnRefresh.setBackground(new java.awt.Color(255, 255, 255));
         btnRefresh.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icons/loading-arrow.png"))); // NOI18N
         btnRefresh.setBorderPainted(false);
         btnRefresh.addActionListener(new java.awt.event.ActionListener() {
