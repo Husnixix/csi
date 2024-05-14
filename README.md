@@ -1,6 +1,5 @@
 # csi
-
-# Human Resource Management
+Human Resource Management
 
 # Features 
 Admin can manage crude operations
